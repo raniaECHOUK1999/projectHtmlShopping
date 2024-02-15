@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.login {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+.style {
+    width: 335px;
+}
+#headerLogin{
+    background: url(../images/offer_img.jpg) top/cover no-repeat;
+}
+.btnLogInn{
+    background-color: var(--pink);
+    color: #fff;
+    border-color: var(--pink);
+    width: 200px;
+    border-radius: 20px;
+    height: 50px;
+}
