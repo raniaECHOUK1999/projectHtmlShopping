@@ -1,0 +1,27 @@
+
+
+.rec {
+    margin-top: 50px;
+}
+
+.form-control {
+    border-radius: 25px;
+}
+
+.btn-primary {
+    border-radius: 25px;
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.display-4 {
+    color: #007bff;
+}
+
+.lead {
+    color: #6c757d;
+}
